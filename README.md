@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm **NafiyTP** (which is **Yifan** written backwards).  
-I'm passionate about mathematics, **signal processing and artificial intelligence (TSIA)**, as well as **quantitative finance**.  
+I'm passionate about mathematics, **signal processing and artificial intelligence**, as well as **quantitative finance**.  
 
 Feel free to reach out to me at **ywang-24@telecom-paris.fr** 🙂
 <!--
