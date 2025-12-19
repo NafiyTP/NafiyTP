@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm **NafiyTP** (which is **Yifan** written backwards).  
+I'm passionate about mathematics, **signal processing and artificial intelligence (TSIA)**, as well as **quantitative finance**.  
+
+Feel free to reach out to me at **ywang-24@telecom-paris.fr** 🙂
 <!--
 **NafiyTP/NafiyTP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
