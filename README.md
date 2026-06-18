@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 I'm **NafiyTP** (which is **Yifan** written backwards).  
 I'm passionate about mathematics, **signal processing and artificial intelligence**, as well as **quantitative finance**.  
