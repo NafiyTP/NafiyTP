@@ -15,9 +15,9 @@
 
 ### What I'm working on
 
-- 🔍 Mechanistic interpretability — comparing how Transformers and Mamba (selective SSMs) implement induction circuits, using activation patching and a signal-processing read on the SSM's poles.
-- 📈 Multi-agent LLM systems and applied ML projects (log anomaly detection, automation).
-- 🧮 Keeping my quantitative finance and algorithmic problem-solving skills sharp alongside the research side.
+-  Mechanistic interpretability — comparing how Transformers and Mamba (selective SSMs) implement induction circuits, using activation patching and a signal-processing read on the SSM's poles.
+-  Multi-agent LLM systems and applied ML projects (log anomaly detection, automation).
+-  Keeping my quantitative finance and algorithmic problem-solving skills sharp alongside the research side.
 
 ### Tech I use
 
