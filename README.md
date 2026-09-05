@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yifan 👋</h1>
-<h3 align="center">(NafiyTP is just Yifan spelled backwards)</h3>
+<h3 align="center">(Nafiy is just Yifan spelled backwards)</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Télécom_Paris-2024--2027-1F2A44?style=flat-square" alt="Télécom Paris"/>
@@ -29,12 +29,6 @@
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
 </p>
 
-### GitHub stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NafiyTP&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NafiyTP&layout=compact&hide_border=true"/>
-</p>
 
 ### Get in touch
 
